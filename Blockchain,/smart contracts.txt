@@ -1,0 +1,33 @@
+-NFT minting contract
+RDM(minting contract)
+https://etherscan.io/address/0x0e97bce6978d2aa247e7b985ffd07c7b7348ccdf#contracts
+
+Sunnys Minting (http://the-lab.io/)
+ERC721A smart contract which enabled to allow people to do multiple mint and at a reduced Gas fees.
+Opensea link :- https://opensea.io/collection/the-8-1-sunny
+https://etherscan.io/address/0x5491A8F98D9AAABEC69a8B7813c1a332bf4A8a03#code
+
+
+Third Wave (https://app.thirdwavenft.club)
+Minting website for a restaurant . Did 2 NFT contracts and a novel minting site for NFTs that included multiple methods of payment through Crypto and also Credit Card.
+Opensea link :- https://opensea.io/collection/third-wave-club-platinum-tier
+
+
+-ERC-20 token contract
+https://etherscan.io/address/0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef
+
+-ERC-20 presale contract
+https://etherscan.io/address/0x3C40601f73fbf50b81a72edbf2786f14EBb7371b#code
+
+-BEP-20 token contract
+Token Contract : https://bscscan.com/address/0xa8e465a18b7028ef2111fc43932af24dce2084a9
+Token Site: https://cryptoworkers.club
+Token Price: 0.58$ - https://poocoin.app/tokens/0xa8e465a18b7028ef2111fc43932af24dce2084a9
+
+https://bscscan.com/address/0xE7C8f3d8422C185Fd49d9fcC0b72F1D5d8614a44#writeContract
+
+-BEP-20 airdrop
+https://bscscan.com/address/0xb15f39d979208F05474CF4B8f66Fd46f6f4A77f3#code
+
+
+
